@@ -1,0 +1,5 @@
+crapssim==0.2.0
+numpy==2.1.1
+pandas==2.2.2
+plotnine==0.13.6
+python-dotenv==1.0.1
